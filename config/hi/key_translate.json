@@ -45,6 +45,7 @@
     "message_translating": "अनुवाद हो रहा है...",
     "message_translate_failed": "अनुवाद विफल",
     "message_download_language": "वर्तमान भाषा डाउनलोड नहीं की गई है। कृपया अनुवाद प्रक्रिया को प्रभावित न होने देने के लिए भाषा डाउनलोड करें।",
+    "message_download_language_success": "{language} सफलतापूर्वक डाउनलोड हुआ",
     "title_download_language": "भाषा डाउनलोड करें",
     "title_select_language_input": "भाषा पहचान चुनें",
     "title_select_language_output": "भाषा अनुवाद चुनें",

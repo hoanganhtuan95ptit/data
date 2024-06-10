@@ -45,6 +45,7 @@
     "message_translating": "Đang dịch...",
     "message_translate_failed": "Dịch thất bại",
     "message_download_language": "Ngôn ngữ hiện tại chưa được tải xuống. Vui lòng tải ngôn ngữ để đảm bảo quá trình dịch không bị ảnh hưởng.",
+    "message_download_language_success": "Tải {language} thành công",
     "title_download_language": "Tải ngôn ngữ",
     "title_select_language_input": "Chọn ngôn ngữ phát hiện",
     "title_select_language_output": "Chọn ngôn ngữ dịch",
