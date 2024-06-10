@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "wo",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/worldwide.png",
+      "index": 1
+    },
+    {
+      "code": "latin",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/alphabet.png",
+      "index": 2
+    },
+    {
+      "code": "vi",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_vi.webp",
+      "index": 3
+    },
+    {
+      "code": "en",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_en.webp",
+      "index": 4
+    },
+    {
+      "code": "zh",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_zh.webp",
+      "index": 5
+    },
+    {
+      "code": "hi",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_hi.webp",
+      "index": 6
+    },
+    {
+      "code": "ja",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_ja.webp",
+      "index": 7
+    },
+    {
+      "code": "ko",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_ko.webp",
+      "index": 8
+    },
+    {
+      "code": "af",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_af.webp",
+      "index": 9
+    },
+    {
+      "code": "sq",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_sq.webp",
+      "index": 10
+    },
+    {
+      "code": "ca",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_ca.webp",
+      "index": 11
+    },
+    {
+      "code": "hr",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_hr.webp",
+      "index": 12
+    },
+    {
+      "code": "cs",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_cs.webp",
+      "index": 13
+    },
+    {
+      "code": "da",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_da.webp",
+      "index": 14
+    },
+    {
+      "code": "nl",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_nl.webp",
+      "index": 15
+    },
+    {
+      "code": "et",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_et.webp",
+      "index": 16
+    },
+    {
+      "code": "tl",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_tl.webp",
+      "index": 17
+    },
+    {
+      "code": "fi",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_fi.webp",
+      "index": 18
+    },
+    {
+      "code": "fr",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_fr.webp",
+      "index": 19
+    },
+    {
+      "code": "de",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_de.webp",
+      "index": 20
+    },
+    {
+      "code": "hu",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_hu.webp",
+      "index": 21
+    },
+    {
+      "code": "is",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_is.webp",
+      "index": 22
+    },
+    {
+      "code": "id",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_id.webp",
+      "index": 23
+    },
+    {
+      "code": "it",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_it.webp",
+      "index": 24
+    },
+    {
+      "code": "lv",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_lv.webp",
+      "index": 25
+    },
+    {
+      "code": "lt",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_lt.webp",
+      "index": 26
+    },
+    {
+      "code": "ms",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_ms.webp",
+      "index": 27
+    },
+    {
+      "code": "no",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_no.webp",
+      "index": 28
+    },
+    {
+      "code": "pl",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_pl.webp",
+      "index": 29
+    },
+    {
+      "code": "pt",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_pt.webp",
+      "index": 30
+    },
+    {
+      "code": "ro",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_ro.webp",
+      "index": 31
+    },
+    {
+      "code": "sk",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_sk.webp",
+      "index": 32
+    },
+    {
+      "code": "sl",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_sl.webp",
+      "index": 33
+    },
+    {
+      "code": "es",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_es.webp",
+      "index": 34
+    },
+    {
+      "code": "sv",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_sv.webp",
+      "index": 35
+    },
+    {
+      "code": "tr",
+      "image": "https://raw.githubusercontent.com/hoanganhtuan95ptit/data/main/flag/lens_flag_tr.webp",
+      "index": 36
+    }
+  ]
+}
