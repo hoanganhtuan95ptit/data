@@ -43,6 +43,7 @@
     "show_image": "Hiển thị kết quả hình ảnh",
     "show_translate": "Hiển thị kết quả dịch",
     "message_translating": "Đang dịch...",
+    "message_empty_result": "Bạn chưa có bản dịch nào.",
     "message_translate_failed": "Dịch thất bại",
     "message_download_language": "Ngôn ngữ hiện tại chưa được tải xuống. Vui lòng tải ngôn ngữ để đảm bảo quá trình dịch không bị ảnh hưởng.",
     "message_download_language_success": "Tải {language} thành công",

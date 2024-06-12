@@ -43,6 +43,7 @@
     "show_image": "Show Image Result",
     "show_translate": "Show Translate Result",
     "message_translating": "Translating...",
+    "message_empty_result": "You don't have any translations yet.",
     "message_translate_failed": "Translate failed",
     "message_download_language": "The current language has not been downloaded. Please download the language to ensure that the translation process is not affected.",
     "message_download_language_success": "Downloaded {language} successfully",
