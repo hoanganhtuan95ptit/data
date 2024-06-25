@@ -1,7 +1,7 @@
 {
   "data": {
-    "wo": "Thế giới",
-    "latin": "Latin",
+    "wo": "Tự động phát hiện Ngôn Ngữ",
+    "latin": "Phát hiện chữ latin Latin",
     "en": "Tiếng Anh",
     "zh": "Tiếng Trung",
     "hi": "Tiếng Hindi",
@@ -50,6 +50,8 @@
     "title_download_language": "Tải ngôn ngữ",
     "title_select_language_input": "Chọn ngôn ngữ phát hiện",
     "title_select_language_output": "Chọn ngôn ngữ dịch",
-    "title_history": "Lịch sử ảnh"
+    "title_history": "Lịch sử ảnh",
+    "type_offline": "Ngoại tuyến",
+    "type_online": "Trực tuyến"
   }
 }

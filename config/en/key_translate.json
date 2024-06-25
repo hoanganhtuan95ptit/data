@@ -1,7 +1,7 @@
 {
   "data": {
-    "wo": "World",
-    "latin": "Latin",
+    "wo": "Auto-detect Language",
+    "latin": "Detect Latin Characters",
     "en": "English",
     "zh": "Chinese",
     "hi": "Hindi",
@@ -38,18 +38,20 @@
     "vi": "Vietnamese",
     "action_copy": "Copy",
     "action_share": "Share",
-    "action_download_language": "Download language",
-    "action_download_language_when_translate": "Download when translating",
-    "show_image": "Show Image Result",
-    "show_translate": "Show Translate Result",
+    "action_download_language": "Download Language",
+    "action_download_language_when_translate": "Download When Translating",
+    "show_image": "Show Image Results",
+    "show_translate": "Show Translation Results",
     "message_translating": "Translating...",
-    "message_empty_result": "You don't have any translations yet.",
-    "message_translate_failed": "Translate failed",
-    "message_download_language": "The current language has not been downloaded. Please download the language to ensure that the translation process is not affected.",
+    "message_empty_result": "You have no translations.",
+    "message_translate_failed": "Translation Failed",
+    "message_download_language": "Current language has not been downloaded. Please download the language to ensure the translation process is not affected.",
     "message_download_language_success": "Downloaded {language} successfully",
-    "title_download_language": "Download language",
-    "title_select_language_input": "Select language detect",
-    "title_select_language_output": "Select language translate",
-    "title_history": "Photo history"
+    "title_download_language": "Download Language",
+    "title_select_language_input": "Select Detection Language",
+    "title_select_language_output": "Select Translation Language",
+    "title_history": "Image History",
+    "type_offline": "Offline",
+    "type_online": "Online"
   }
 }
