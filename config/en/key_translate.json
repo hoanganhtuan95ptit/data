@@ -1,7 +1,7 @@
 {
   "data": {
-    "wo": "Auto-detect Language",
-    "latin": "Detect Latin Characters",
+    "wo": "Auto-detect",
+    "latin": "Detect Latin",
     "en": "English",
     "zh": "Chinese",
     "hi": "Hindi",
