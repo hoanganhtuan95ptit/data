@@ -38,8 +38,10 @@
     "vi": "Tiếng Việt",
     "action_copy": "Sao chép",
     "action_share": "Chia sẻ",
+    "action_retry": "Thử lại",
     "action_download_language": "Tải xuống ngôn ngữ",
     "action_download_language_when_translate": "Tải xuống khi dịch",
+    "action_translate_offline": "Dịch ngoài tuyến",
     "show_image": "Hiển thị kết quả hình ảnh",
     "show_translate": "Hiển thị kết quả dịch",
     "message_translating": "Đang dịch...",
@@ -47,10 +49,15 @@
     "message_translate_failed": "Dịch không thành công",
     "message_download_language": "Ngôn ngữ hiện tại chưa được tải xuống. Vui lòng tải xuống ngôn ngữ để đảm bảo quá trình dịch không bị ảnh hưởng.",
     "message_download_language_success": "Đã tải xuống {language} thành công",
+    "message_error_detect_online": "Đã xảy ra lỗi ra, hay thử lại",
+    "message_error_popup_detect_online": "Đã xảy ra lỗi ra, hay chuyển sang dịch ngoại tuyến hoặc thử lại",
+
     "title_download_language": "Tải xuống ngôn ngữ",
     "title_select_language_input": "Chọn ngôn ngữ phát hiện",
     "title_select_language_output": "Chọn ngôn ngữ dịch",
     "title_history": "Lịch sử hình ảnh",
+    "title_error_common": "Có lỗi xảy ra",
+
     "type_offline": "Ngoại tuyến",
     "type_online": "Trực tuyến"
   }
